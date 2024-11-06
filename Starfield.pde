@@ -6,7 +6,7 @@ int hasbullaHeight = 50;
 
 void setup() {
  size(1000,1000);
- frameRate(120);
+ frameRate(45);
  img = loadImage("hasbulla punching.png");
  img2 = loadImage("ilyashuster2.png");
  for(int i = 0; i < one.length - 1; i++) {
