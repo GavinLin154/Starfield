@@ -29,7 +29,6 @@ void draw() {
     hasbullaHeight += 20;
   }  
   one[one.length-1].move();
-  one[one.length-1].move();
   one[one.length-1].show();
 }
 
